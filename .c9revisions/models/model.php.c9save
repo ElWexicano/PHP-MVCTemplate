@@ -1,0 +1,5 @@
+{"ts":1355562668306,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"<?php\n\nclass Model {\n\tpublic function publicMethod() {\n\t\treturn array(\n\t\t\t'greeting' => 'hello world',\n\t\t\t'day' => date('l')\n\t\t);\n\t}\n}\n?>"]],"start1":0,"start2":0,"length1":0,"length2":137}]],"length":137}
+{"contributors":[],"silentsave":true,"ts":1355562889049,"patch":[[{"diffs":[[0," => "],[-1,"date('l')"],[0,"\n\t\t)"]],"start1":111,"start2":111,"length1":17,"length2":8}]],"length":128,"saved":false}
+{"ts":1355562890756,"patch":[[{"diffs":[[0,"day' => "],[1,"''"],[0,"\n\t\t);\n\t}"]],"start1":107,"start2":107,"length1":16,"length2":18}]],"length":130,"saved":false}
+{"ts":1355562892403,"patch":[[{"diffs":[[0,"ay' => '"],[1,"tod"],[0,"'\n\t\t);\n\t"]],"start1":108,"start2":108,"length1":16,"length2":19}]],"length":133,"saved":false}
+{"ts":1355562894332,"patch":[[{"diffs":[[0," => 'tod"],[1,"ay"],[0,"'\n\t\t);\n\t"]],"start1":111,"start2":111,"length1":16,"length2":18}]],"length":135,"saved":false}

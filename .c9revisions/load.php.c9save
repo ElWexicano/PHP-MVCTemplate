@@ -1,0 +1,1 @@
+{"ts":1355562611480,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"<?php\nclass Load {\n\tfunction view( $fileName, $data = null ) {\n\n\t\tif(is_array($data)) {\n\t\t\textract( $data );\t\n\t\t}\n\n\t\t$view = 'views/'.$fileName;\n\t\tinclude $view;\n\t}\n}\n\n?>"]],"start1":0,"start2":0,"length1":0,"length2":170}]],"length":170}

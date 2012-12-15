@@ -1,0 +1,1 @@
+{"ts":1355562616717,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"<?php\n\nrequire 'load.php';\nrequire 'models/model.php';\nrequire 'controllers/controller.php';\n\nnew Controller();\n?>"]],"start1":0,"start2":0,"length1":0,"length2":114}]],"length":114}
